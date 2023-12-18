@@ -1,7 +1,7 @@
 <h1>Resume
 <h6></h6>
   
-A repo to publicize my skills and experience
+A repo with a variety of class and personal projects
 
 My personal and business email is mkaufm04@syr.edu
 
